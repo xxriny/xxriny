@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <img src="https://img.shields.io/badge/React-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 <img src="https://img.shields.io/badge/Python-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+<img src="https://img.shields.io/badge/Typescript-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
