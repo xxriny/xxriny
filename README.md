@@ -3,9 +3,6 @@
 <!--
 **ning222222/ning222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<style>
-  li {float:left}
-  </style>
 
 Here are some ideas to get you started:
 
@@ -18,11 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+
+
+
 <ul>
-  <li>
+  <li style="float:left;">
 <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black"></li>
   
-  <li>
+  <li style="float:left;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></li>
   
   <li>
