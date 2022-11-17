@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
 
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
   <li style="float:left;">
 <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black"></li>
   
