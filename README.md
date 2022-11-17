@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blackauto&height=300&section=header&text=Yerin%20&fontSize=90" />
-  <li style="float:left;">
+<!--   <li style="float:left;">
 <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black"></li>
   
-<!--   <li style="float:left;">
+  <li style="float:left;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></li>
   
   <li>
