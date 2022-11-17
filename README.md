@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<ul>
+
   <li style="float:left;">
 <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black"></li>
   
