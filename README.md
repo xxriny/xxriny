@@ -14,7 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+  <li>
+<img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black"></li>
+  
+  <li>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></li>
+  
+  <li>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black"></li>
+  
+  <li>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript&logoColor=white"/></a>
+</li>
+</ul>
 <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black">
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript&logoColor=white"/></a>
+
+
+<style>
+  li {float:left}
+  </style>
