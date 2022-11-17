@@ -3,6 +3,10 @@
 <!--
 **ning222222/ning222222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<style>
+  li {float:left}
+  </style>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -33,7 +37,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black">
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript&logoColor=white"/></a>
 
-
-<style>
-  li {float:left}
-  </style>
