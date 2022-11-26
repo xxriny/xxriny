@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black">
-<img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=black">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
   <br>
