@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=whitea&height=300&section=header&text=Yerin%20&fontSize=90%color=white" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=whitea&height=300&section=header&text=Yerin%20&fontSize=90%fontColor=d6ace6" />
 
 <div align="center">
  <h3 align="center"><b>📚 Languages 📚</b></h3>
