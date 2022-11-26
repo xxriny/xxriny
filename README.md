@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=blackauto&height=300&section=header&text=Yerin%20&fontSize=90" />
 
 <div align="center">
+ <h3 align="center"><b>📚 Languages 📚</b></h3>
  <img src="https://img.shields.io/badge/Node.js-색코드?style=for-the-badge&logo=Node.js&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black">
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-
+ <h3 align="center"><b>📚 Renewal 📚</b></h3>
 <strong>스쿨룩스 메인 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a><Strong>
  <BR>
 <strong>금호석유화학 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/KUMHO/index.html">KUMHO</a><Strong>
