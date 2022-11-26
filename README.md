@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
- <h3 align="center"><b>📚 Renewal 📚</b></h3>
+ <h3 align="center"><b>🛠 Renewal 🛠</b></h3>
 <strong>스쿨룩스 메인 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a><Strong>
  <BR>
 <strong>금호석유화학 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/KUMHO/index.html">KUMHO</a><Strong>
