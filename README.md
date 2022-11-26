@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-  <ul>
- <li><strong style="font-size:50px;"> 스쿨룩스 메인 리뉴얼 페이지 👉<strong> <a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a></li>
-  </ul> 
+
+스쿨룩스 메인 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a>
+ 
     </div>
