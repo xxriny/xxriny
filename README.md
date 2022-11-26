@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=python&logoColor=black">
   <br>
-  <ul>
+  <ul style="margin-top:150px">
     <li><strong>스쿨룩스 메인 리뉴얼 click 👉<strong> <a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a></li>
   </ul> 
 </div>
