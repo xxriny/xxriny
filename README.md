@@ -40,6 +40,6 @@ Here are some ideas to get you started:
   <br>
   <br>
   <ul>
-    <li><strong style="font-size:50px;">스쿨룩스 메인 리뉴얼 click 👉<strong> <a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a></li>
+    <li><strong style="font-size:50px;">### 안녕하세요 👋 👉<strong> <a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a></li>
   </ul> 
 </div>
