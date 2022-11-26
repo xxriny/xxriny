@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=python&logoColor=black">
   <br>
   <ul>
-    <li>스쿨룩스 메인 리뉴얼 click 👉 <a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a></li>
+    <li><strong>스쿨룩스 메인 리뉴얼 click 👉<strong> <a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a></li>
   </ul> 
 </div>
