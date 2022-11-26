@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=python&logoColor=black">
 <img src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=python&logoColor=black">
-  <strong>스쿨룩스 메인 리뉴얼 click 👉 </strong> <p><a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a><p>
+  <br>
+  <p>스쿨룩스 메인 리뉴얼 click 👉 </p> <p><a href="http://wannabememe.co.kr/project/SKOOLOOKS/">skoolooks</a><p>
 </div>
