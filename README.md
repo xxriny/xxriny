@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <BR>
 <strong>부산대학교병원 메인 웹 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/PNUH/">부산대학교병원</a><Strong>
    <BR>
-<strong>반스 메인 웹 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/vans/#">반스</a><Strong>
+<strong>반스 메인 웹 리뉴얼 페이지 👉<a href="http://wannabememe.co.kr/project/vans/#">VANS</a><Strong>
 </div>
