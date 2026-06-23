@@ -16,7 +16,6 @@ focus : Linux · cloud infra
 
 **infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
@@ -28,12 +27,9 @@ focus : Linux · cloud infra
 ---
 
 
-#### // github stats
+#### github stats
 
 <img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=xxriny&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-/> <img
 height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxriny&layout=compact&theme=github_dark&hide_border=true"
 />
