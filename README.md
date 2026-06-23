@@ -2,12 +2,12 @@
 
 ```
 whoami: backend engineer
-focus : distributed systems · cloud infra · scalable APIs
+focus : Linux · cloud infra
 ```
 
 ---
 
-#### // tech stack
+#### tech stack
 
 **languages & frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
