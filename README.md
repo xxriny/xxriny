@@ -27,10 +27,4 @@ focus : Linux · cloud infra
 ---
 
 
-#### github stats
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxriny&layout=compact&theme=github_dark&hide_border=true"
-/>
 
